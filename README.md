@@ -20,8 +20,22 @@ Computer Engineering student — quantum computing, ML systems, and high-perform
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjalidmore&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=anjalidmore&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjalidmore&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" />
+<img height="165" src="https://streak-stats.demolab.com?user=anjalidmore&hide_border=true&theme=transparent" />
+
+</div>
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalidmore&layout=compact&hide_border=true&hide_title=true&theme=transparent" />
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjalidmore/anjalidmore/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjalidmore/anjalidmore/output/snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/anjalidmore/anjalidmore/output/snake.svg" />
+</picture>
 
 </div>
 

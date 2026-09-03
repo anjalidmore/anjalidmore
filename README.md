@@ -20,13 +20,8 @@ Computer Engineering student — quantum computing, ML systems, and high-perform
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjalidmore&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent" />
 <img height="165" src="https://streak-stats.demolab.com?user=anjalidmore&hide_border=true&theme=transparent" />
 
-</div>
-
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalidmore&layout=compact&hide_border=true&hide_title=true&theme=transparent" />
 </div>
 
 <div align="center">

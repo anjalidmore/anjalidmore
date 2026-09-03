@@ -2,9 +2,9 @@
 
 # Anjali More
 
-Computer Engineering student working across quantum computing, ML systems, and high-performance computing.
+Computer Engineering student — quantum computing, ML systems, and high-performance computing.
 
-[LinkedIn](https://www.linkedin.com/in/anjalimore/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjalimore/)
 
 </div>
 
@@ -18,63 +18,45 @@ Computer Engineering student working across quantum computing, ML systems, and h
 
 ---
 
-### Featured Projects
+<div align="center">
 
-**VEDA — Visual Engine for Document Accessibility**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjalidmore&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=anjalidmore&hide_border=true" />
 
-Document accessibility pipeline for visually impaired users, turning academic PDFs into structured, spoken output via OCR and layout-aware LLM interpretation. A geometry-aware reading-order algorithm hits 94% accuracy on multi-column layouts; paper accepted for Oral Presentation at IEEE TEMSMET 2026.
-
-**Built with:** Python · DocLayout-YOLO · Tesseract OCR · Gemini 2.5 Flash · Redis
-[Repository](https://github.com/aadit13579/VEDA)
-
-
-**QuantumPit — Quantum Optimization for F1 Race Strategy**
-
-Hybrid classical/quantum system for F1 pit-stop strategy: a knowledge graph and expert system feed an A* search, cross-checked against a QAOA/QUBO formulation, alongside a tyre-degradation regression model. Shipped as a containerized FastAPI + React app.
-
-**Built with:** Python · QAOA · FastAPI · React
-[Repository](https://github.com/anjalidmore/Quantum-Optimization-for-F1-Race-Strategy)
-
-
-**GPU-Accelerated Password Auditing Tool**
-
-CUDA/C++ kernels for parallel MD5 brute-force and dictionary attacks with rule-based mutations across a 14M-word list — 5.7 GH/s on an NVIDIA T4, a 5500× speedup over a single-threaded CPU baseline.
-
-**Built with:** CUDA · C++ · NVIDIA T4
-[Repository](https://github.com/Hilda-Micheal/GPU_Accelerated_Password_Auditing_Tool)
+</div>
 
 ---
 
-### Experience
+### Featured Projects
 
-**Project Intern, Agentic AI Procurement Platform** — Fractal Analytics · Jul 2026 – Present
-Owns the contract-risk microservice (FastAPI, PostgreSQL, Kafka, Temporal) of a four-agent procurement platform, including a drift-monitored vendor risk model and clause-extraction logic.
-[Repository](https://github.com/AnoojShete/ProcurementAutomation)
-
-**Project Trainee, Quantum Computing Software** — Bhabha Atomic Research Centre (BARC) · Jun – Jul 2026
-Benchmarked Qiskit's transpiler against QASMTrans on OpenQASM circuits and ran pulse-level qubit calibration experiments using Qiskit Dynamics.
-
-**Research Intern, Data Centre with High Availability** — IISER Mohali / Suraj Informatics · Jul 2025 – May 2026
-Architected a fault-tolerant virtualized data centre across 4 nodes with Proxmox VE, ZFS, and a WireGuard VPN for secure remote management.
-
-**Quant Developer Intern** — Optiqo (Fintech Startup) · Jun – Aug 2025
-Designed technical trading indicators and backtested strategies in Python, NumPy, and Pandas.
-[Repository](https://github.com/janhavi989/optiqo-indicators)
+- **[VEDA](https://github.com/aadit13579/VEDA)** — OCR + LLM pipeline turning academic PDFs into accessible audio for visually impaired readers. Paper accepted, IEEE TEMSMET 2026.
+- **[QuantumPit](https://github.com/anjalidmore/Quantum-Optimization-for-F1-Race-Strategy)** — Quantum (QAOA) vs. classical optimization for F1 pit-stop strategy, shipped as a FastAPI + React app.
+- **[GPU Password Auditing Tool](https://github.com/Hilda-Micheal/GPU_Accelerated_Password_Auditing_Tool)** — CUDA-accelerated password cracking at 5.7 GH/s, a 5500× speedup over CPU.
 
 ---
 
 ### Skills
 
-**Languages:** Python · C · C++ · SQL · HTML/CSS · PHP
-**ML / Quantum / HPC:** Qiskit · CUDA · QAOA · Neural Networks · OCR · OpenQASM
-**Systems & Infra:** Linux · Proxmox VE · Kafka · Redis · WireGuard
-**Web & Backend:** FastAPI · React · PostgreSQL · MySQL
+Python · C++ · Qiskit · CUDA · QAOA · FastAPI · React · PostgreSQL · Redis · Proxmox VE
 
 ---
 
-### Highlights
+<details>
+<summary><strong>Full experience & highlights</strong></summary>
+<br>
+
+**Experience**
+
+- **Fractal Analytics** — Project Intern, Agentic AI Procurement Platform · Jul 2026 – Present
+- **BARC** — Project Trainee, Quantum Computing Software · Jun – Jul 2026
+- **IISER Mohali / Suraj Informatics** — Research Intern, Data Centre with High Availability · Jul 2025 – May 2026
+- **Optiqo** — Quant Developer Intern · Jun – Aug 2025
+
+**Highlights**
 
 - Co-authored the VEDA paper — accepted for Oral Presentation at IEEE TEMSMET 2026
-- President, Computer Society of India — led a 10-hour national hackathon with 750+ registrations and 150+ team submissions
+- President, Computer Society of India — led a 10-hour national hackathon with 750+ registrations
 - 3rd prize, inter-college Sustainability Ideathon; 2nd place, intra-college hackathon
-- Secured ₹8.5 lakh in funding for a rural water conservation initiative, improving access for 65+ households (JalShakti Abhiyan)
+- Secured ₹8.5 lakh in funding for a rural water conservation initiative (JalShakti Abhiyan)
+
+</details>

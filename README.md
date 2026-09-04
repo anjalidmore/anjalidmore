@@ -38,6 +38,7 @@ Computer Engineering student — quantum computing, ML systems, and high-perform
 
 ### Featured Projects
 
+- **[Agentic AI-based Intelligent Procurement Automation Platform](https://github.com/AnoojShete/ProcurementAutomation)** — Document intake, vendor risk scoring, contract lifecycle, and multi-stage approvals. Full stack: 5 services, Postgres, Kafka, Temporal workflows.
 - **[VEDA](https://github.com/aadit13579/VEDA)** — OCR + LLM pipeline turning academic PDFs into accessible audio for visually impaired readers. Paper accepted, IEEE TEMSMET 2026.
 - **[QuantumPit](https://github.com/anjalidmore/Quantum-Optimization-for-F1-Race-Strategy)** — Quantum (QAOA) vs. classical optimization for F1 pit-stop strategy, shipped as a FastAPI + React app.
 - **[GPU Password Auditing Tool](https://github.com/Hilda-Micheal/GPU_Accelerated_Password_Auditing_Tool)** — CUDA-accelerated password cracking at 5.7 GH/s, a 5500× speedup over CPU.

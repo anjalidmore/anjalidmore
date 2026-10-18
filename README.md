@@ -2,7 +2,7 @@
 
 # Anjali More
 
-Computer Engineering student — quantum computing, ML systems, and high-performance computing.
+Computer Engineering student — ML systems, quantum computing, and high-performance computing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjalimore/)
 
